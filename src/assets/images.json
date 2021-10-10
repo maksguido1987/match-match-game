@@ -1,0 +1,36 @@
+[
+  {
+    "category": "animals",
+    "images": [
+      "eagle.png",
+      "elefant.png",
+      "lion.png",
+      "penguin.png",
+      "tiger.png",
+      "wolf.png",
+      "beer.png",
+      "coala.png",
+      "enot.png",
+      "gipopotam.png",
+      "panda.png",
+      "zebra.png"
+    ]
+  },
+  {
+    "category": "cars",
+    "images": [
+      "car-1.png",
+      "car-2.png",
+      "car-3.png",
+      "car-4.png",
+      "car-5.png",
+      "car-6.png",
+      "car-7.png",
+      "car-8.png",
+      "car-9.png",
+      "car-10.png",
+      "car-11.png",
+      "car-12.png"
+    ]
+  }
+]

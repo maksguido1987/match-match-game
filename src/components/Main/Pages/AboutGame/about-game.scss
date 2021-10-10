@@ -1,0 +1,79 @@
+.about-game {
+  padding: 28px 184px 85px 36px;
+  width: 100%;
+  max-width: 1000px;
+  background-color: #f2f2f2;
+}
+
+.about-game-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-game-column {
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  text-align: left;
+  color: #666666;
+}
+
+.about-game-title {
+  margin: 0 0 20px 0;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0.15px;
+  text-align: left;
+}
+
+.about-game-rule {
+  padding: 16px 16px 16px 70px;
+  margin: 0 0 20px 0;
+  width: 360px;
+  height: 230px;
+  background-color: #fff;
+}
+
+.about-game-column-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.about-game-config {
+  padding: 16px 16px 16px 70px;
+  margin: 0 0 20px 0;
+  width: 360px;
+  height: 132px;
+  background-color: #fff;
+}
+
+.about-game-start {
+  padding: 16px 16px 16px 70px;
+  width: 360px;
+  height: 240px;
+  background-color: #fff;
+}
+
+.about-game-form {
+  margin: 0 0 30px 0;
+  width: 302px;
+  height: 218px;
+}
+
+.about-game-settings {
+  margin: 0 0 85px 0;
+  width: 116px;
+  height: 73px;
+}
+
+.about-game-field {
+  width: 330px;
+  height: 240px;
+}

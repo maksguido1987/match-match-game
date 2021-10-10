@@ -1,0 +1,26 @@
+.settings-game {
+  width: 1000px;
+  height: 300px;
+  box-shadow:0px 4px 5px 1px rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.setting-title {
+  margin: 0 0 25px 0;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0.15px;
+  text-align: left;
+}
+
+.setting-select {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #000;
+  cursor: pointer;
+}
